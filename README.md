@@ -32,7 +32,7 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Hyppolito&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel/api/top-langs/?username=Gustavo-Hyppolito&shlayout=compact&true&theme=radical).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Hyppolito&shlayout=compact&true&theme=radical).
 
 ---
 
