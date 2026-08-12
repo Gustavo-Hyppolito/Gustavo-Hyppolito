@@ -28,11 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
----
-
-
-
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo-Hyppolito/Gustavo-Hyppolito/output/github-contribution-grid-snake-dark.svg">
